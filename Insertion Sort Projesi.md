@@ -1,4 +1,4 @@
-# Veri-Yap-lar-ve-Algoritmalar
+# Veri-Yapılar-ve-Algoritmalar // Insertion Sort Projesi
 This is a homework project 1 for Data Structures and Algorithms (Veri Yapıları ve Algoritmalar) course
 
 ## Proje 1
